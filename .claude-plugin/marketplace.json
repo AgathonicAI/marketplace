@@ -9,7 +9,7 @@
       "name": "AgathonicAI:Claude-MarkdownLint",
       "version": "1.0.0",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "AgathonicAI/Claude-MarkdownLint"
       },
       "repository": {
