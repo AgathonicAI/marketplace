@@ -12,10 +12,6 @@
         "source": "github",
         "repo": "AgathonicAI/Claude-MarkdownLint"
       },
-      "repository": {
-        "type": "github",
-        "repo": "AgathonicAI/Claude-MarkdownLint"
-      },
       "description": "Automatically lint and fix markdown files using markdownlint and Claude.",
       "author": {
         "name": "Ben Hammersley",
