@@ -1,0 +1,22 @@
+{
+  "name": "AgathonicAI Marketplace",
+  "owner": {
+    "name": "Ben Hammersley",
+    "email": "ben@hammersleyfutures.com"
+  },
+  "plugins": [
+    {
+      "name": "AgathonicAI:Claude-MarkdownLint",
+      "version": "1.0.0",
+      "repository": {
+        "type": "github",
+        "repo": "AgathonicAI/Claude-MarkdownLint"
+      },
+      "description": "Automatically lint and fix markdown files using markdownlint and Claude.",
+      "author": {
+        "name": "Ben Hammersley",
+        "email": "ben@hammersleyfutures.com"
+      }
+    }
+  ]
+}
