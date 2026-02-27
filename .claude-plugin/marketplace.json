@@ -1,11 +1,11 @@
 {
-"name": "AgathonicAI-Marketplace",
+"name": "HammersleyFutures-Marketplace",
 "owner": {
     "name": "Ben Hammersley",
     "email": "ben@hammersleyfutures.com"
 },
 "metadata": {
-    "description": "A collection of Claude plugins developed by AgathonicAI.",
+    "description": "A collection of Claude plugins developed by Hammersley Futures.",
     "version": "1.0.0"
 },
 "plugins": [
@@ -14,7 +14,7 @@
     "version": "1.0.1",
     "source": {
         "source": "url",
-        "url": "https://github.com/AgathonicAI/claude-skill-markdownlint.git"
+        "url": "https://github.com/HammersleyFutures/claude-skill-markdownlint.git"
     },
     "description": "Automatically lint and fix markdown files using markdownlint and Claude."
     }

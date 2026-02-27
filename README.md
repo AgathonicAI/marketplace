@@ -1,4 +1,4 @@
-# Agathonic Tooling Marketplace
+# Hammersley Futures Tooling Marketplace
 
 Claude Code plugins
 
@@ -7,7 +7,7 @@ Claude Code plugins
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add AgathonicAI/marketplace
+/plugin marketplace add HammersleyFutures/marketplace
 ```
 
 ## Current Public Releases
