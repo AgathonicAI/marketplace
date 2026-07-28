@@ -8,15 +8,5 @@
     "description": "A collection of Claude plugins developed by Hammersley Futures.",
     "version": "1.0.0"
 },
-"plugins": [
-    {
-    "name": "markdownlint",
-    "version": "1.0.1",
-    "source": {
-        "source": "url",
-        "url": "https://github.com/HammersleyFutures/claude-skill-markdownlint.git"
-    },
-    "description": "Automatically lint and fix markdown files using markdownlint and Claude."
-    }
-]
+"plugins": []
 }
